@@ -2,7 +2,7 @@
 FreeCAD FEM examples use Elmer backend
 
 Requirements: 
-- FreeCAD 0.21
+- FreeCAD 0.21.1
 - ElmerSolver 9.0 (Rev: c82f31df0 is tested and it works)
 - GMSH 4.10
 
