@@ -1,5 +1,5 @@
 # FreeCAD-FEM-examples
-FreeCAD FEM examples use Elmer backend
+FreeCAD FEM examples using Elmer backend
 
 Requirements: 
 - FreeCAD 0.21.1
